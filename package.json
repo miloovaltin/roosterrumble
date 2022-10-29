@@ -1,17 +1,16 @@
-
 {
-"name": "roosterrumble",
-"theme": "rooster rumble",
-"version": "1.8.4",
-"description": "rooster rumble สมัครเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"rooster rumble",
-"rooster rumble เครดิตฟรี",
-"rooster rumble ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/roosterrumble",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "roosterrumble",
+  "theme": "rooster rumble",
+  "version": "1.9.0",
+  "description": "rooster rumble สมัครเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "rooster rumble",
+    "rooster rumble เครดิตฟรี",
+    "rooster rumble ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/roosterrumble",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
